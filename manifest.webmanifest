@@ -1,0 +1,9 @@
+{
+  "name": "My Progress",
+  "short_name": "My Progress",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "description": "Personal activity tracker for running, smoking, study, work, and daily habits."
+}
